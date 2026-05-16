@@ -1,0 +1,31 @@
+# Data files (too large for GitHub)
+*.csv
+!results_spearman/*.csv
+!results/*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp files
+*.pkl
+fix_*.py
+mod_*.py
+map_*.py
+gen_*.py
+verify_*.py
+add_*.py
+overhaul_*.py
+find_*.py
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Large data files
+GSE163882_all.data.tpms_222Samples.csv
+GSE163882_series_matrix.txt
