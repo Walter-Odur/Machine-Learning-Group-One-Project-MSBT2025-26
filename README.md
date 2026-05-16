@@ -33,11 +33,8 @@ Neoadjuvant chemotherapy (NAC) is standard-of-care for locally advanced breast c
 
 ```
 .
-├── GSE163882_pCR_Prediction_Pipeline.ipynb    # Original pipeline (all features)
-├── GSE163882_pCR_Spearman_Pipeline.ipynb      # Spearman-filtered pipeline (primary)
-├── pCR_Prediction_Manuscript.docx             # Full manuscript report
-├── results/                                    # Original pipeline results
-├── results_spearman/                           # Spearman pipeline results
+├── pipeline_notebook.ipynb
+├── results_spearman/
 │   ├── results_test_performance.csv
 │   ├── shap_top30_xgboost.csv
 │   ├── shap_top30_rf.csv
