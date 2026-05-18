@@ -72,14 +72,13 @@ scipy
 
 ## Contributors
 
-- **Walter Odur**
-- **Sarah Namubiru**
-- **Elastus Ssemwanga**
-- **Jonathan Haumba**
-- **Patrovas Okidi**
-- **Latifah Nakeyenga**
-- **Martin Odong**
-- **Godwin Tushabe**
+- **WALTER ODUR**
+- **SARAH NAMUBIRU**
+- **ELASTUS SSEMWANGA**
+- **GABRIEL PATROVAS OKIDI**
+- **LATIFAH NAKAYENGA**
+- **MARTIN ODONG**
+- **GODWIN TUSHABE**
 
 ## References
 
